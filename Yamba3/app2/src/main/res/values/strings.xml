@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yamba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Yamba-Gr3</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">What\'s going on?</string>
+    <string name="add">mas</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
